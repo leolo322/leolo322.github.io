@@ -2,18 +2,18 @@
 
 **30 DEC 2021** <br>
 Moved the site from http://www.lclo.ust.hk to http://www.leolo.byethost18.com/ <br>
-Updated CV<br>
+Updated CV <br>
 <br>
 **26 MAR 2021** <br>
 Fixed Bugs <br>
 Updated CV Copy <br>
 <br>
-**20 OCT 2020**
+**20 OCT 2020** <br>
 Fixed Bugs <br>
 Reviewed Codes <br>
 Updated CV Copy <br>
 <br>
-**28 MAY 2019**
+**28 MAY 2019** <br>
 Fixed Bugs <br>
 Reviewed Codes <br>
 <br>
