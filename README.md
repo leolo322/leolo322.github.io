@@ -1,8 +1,8 @@
 # Update History
 
 **30 DEC 2021** <br>
-Moved the site from http://www.lclo.ust.hk to http://www.leolo.byethost18.com/ <br>
-Updated CV <br>
+Moved the site from http://www.leolo.byethost18.com/ to https://leolo322.github.io/<br>
+Updated CV Copy <br>
 <br>
 **26 MAR 2021** <br>
 Fixed Bugs <br>
