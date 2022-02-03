@@ -1,5 +1,9 @@
 # Update History
 
+**03 Feb 2022** <br>
+Updated "Portfolio"<br>
+Updated CV Copy <br>
+<br>
 **30 DEC 2021** <br>
 Moved the site from http://www.leolo.byethost18.com/ to https://leolo322.github.io/<br>
 Updated CV Copy <br>
