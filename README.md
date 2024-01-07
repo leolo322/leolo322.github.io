@@ -1,5 +1,13 @@
 # Update History
-
+**07 Jan 2024** <br>
+Updated Cover Photo<br>
+Updated "About Me"<br>
+Updated "Education"<br>
+Updated "Experience"<br>
+Updated "Skills"<br>
+Updated "Portfolio"<br>
+Updated CV Copy <br>
+<br>
 **03 Feb 2022** <br>
 Updated "Portfolio"<br>
 Updated CV Copy <br>
